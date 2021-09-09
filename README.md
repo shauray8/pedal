@@ -1,2 +1,2 @@
-![logo](./docs/pedal.png)
+![logo](./docs/pedal.PNG)
 
