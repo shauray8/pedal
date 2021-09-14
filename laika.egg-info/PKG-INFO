@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: laika
+Version: 0.0.1
+Summary: GNSS library for use with the comma.ai ecosystem
+Home-page: https://github.com/commaai/laika
+Author: comma.ai
+Author-email: harald@comma.ai
+License: MIT
+Description: See https://github.com/commaai/laika
+Platform: any
+Classifier: Development Status :: 2 - Beta
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Topic :: System :: Hardware
